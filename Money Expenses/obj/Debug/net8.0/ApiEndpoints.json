@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "Money_Expenses.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Money_Expenses.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpensesController",
+    "Method": "GetExpenses",
+    "RelativePath": "api/Expenses/GetExpenses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpensesController",
+    "Method": "GetIncome",
+    "RelativePath": "api/Expenses/GetIncome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpensesController",
+    "Method": "SaveIncome",
+    "RelativePath": "api/Expenses/saveIncome",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_CreateIncome",
+        "Type": "Money_Expenses.DTOs.CreateIncomeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

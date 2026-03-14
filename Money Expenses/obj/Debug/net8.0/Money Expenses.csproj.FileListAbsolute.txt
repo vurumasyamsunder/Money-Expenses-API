@@ -1,0 +1,46 @@
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\appsettings.Development.json
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\appsettings.json
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Money Expenses.exe
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Money Expenses.deps.json
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Money Expenses.runtimeconfig.json
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Money Expenses.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Money Expenses.pdb
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Npgsql.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\Money Expenses.csproj.AssemblyReference.cache
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\Money Expenses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\Money Expenses.AssemblyInfoInputs.cache
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\Money Expenses.AssemblyInfo.cs
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\Money Expenses.csproj.CoreCompileInputs.cache
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\Money Expenses.MvcApplicationPartsAssemblyInfo.cs
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\Money Expenses.MvcApplicationPartsAssemblyInfo.cache
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\staticwebassets.build.json
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\staticwebassets.development.json
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\scopedcss\bundle\Money Expenses.styles.css
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\Money Ex.6BFBD42A.Up2Date
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\Money Expenses.dll
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\refint\Money Expenses.dll
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\Money Expenses.pdb
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\Money Expenses.genruntimeconfig.cache
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\ref\Money Expenses.dll
+F:\Money Expenses\Money Expenses\bin\Debug\net8.0\Money Expenses.staticwebassets.endpoints.json
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Money Expenses\Money Expenses\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
